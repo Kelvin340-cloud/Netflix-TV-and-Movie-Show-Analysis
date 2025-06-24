@@ -1,15 +1,25 @@
 # Netflix-TV-and-Movie-Show-Analysis
 
-## Content Trend Dashboard (Power BI)
+This project explores content patterns in Netflix’s global catalog using interactive Power BI visualizations. The analysis focuses on release timelines, genre distribution, and show durations to uncover strategic content trends.
 
-  - Developed a dynamic dashboard to uncover strategic content trends in Netflix’s global catalog.
+## 🔍 Key Highlights:
+  - Developed a comprehensive Power BI dashboard using the Netflix Titles dataset.
 
-  - Revealed that movies dominate the platform, comprising over 70% of total titles.
+  - Revealed that movies dominate the catalog, accounting for over 70% of all titles.
 
-  - Pinpointed Drama as the leading genre, driving viewer engagement across regions.
+  - Identified Drama as the most featured genre across regions.
 
-  - Identified 2015 as the peak release year, highlighting Netflix’s expansion phase.
+  - Highlighted 2015 as the peak release year, signaling a major expansion phase.
 
-  - Analyzed duration trends, showing most films follow a 90-minute format to match viewer preferences.
+  - Analyzed runtime data, showing most movies align with the standard 90-minute format.
+
+## 🛠️ Tools Used:
+  - Power BI
+  
+  - DAX (Data Analysis Expressions)
+  
+  - Power Query
+  
+  - Netflix Titles Dataset (Kaggle)
 
 ![image](https://github.com/user-attachments/assets/a1ed01a5-5172-456a-a58c-6834c8990092)
