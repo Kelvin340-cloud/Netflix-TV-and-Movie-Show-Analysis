@@ -11,3 +11,5 @@
   - Identified 2015 as the peak release year, highlighting Netflix’s expansion phase.
 
   - Analyzed duration trends, showing most films follow a 90-minute format to match viewer preferences.
+
+![image](https://github.com/user-attachments/assets/a1ed01a5-5172-456a-a58c-6834c8990092)
